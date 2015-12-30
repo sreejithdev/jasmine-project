@@ -1,1 +1,1 @@
-# jasmine-project
+sample projects on jasmine
